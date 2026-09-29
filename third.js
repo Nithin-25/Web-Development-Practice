@@ -155,4 +155,6 @@ const updatedNithin={
 console.log(updatedNithin);
 
 
-const{name,de}
+const{name,department}=employees[0];
+console.log(name);
+console.log(department);

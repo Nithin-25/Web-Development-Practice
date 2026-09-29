@@ -1,0 +1,15 @@
+
+.red{
+    color: red;
+}
+
+.body{
+    color: white;
+    background-color: black;
+}
+
+.highlight{
+    color:red;
+    background-color: yellow;
+    font-size: 30px;
+}

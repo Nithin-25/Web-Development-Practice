@@ -336,3 +336,6 @@
 //     document.write("<br>");
 // }
 
+
+let sname="Nithin";
+console.log(sname.slice(0,-2));
